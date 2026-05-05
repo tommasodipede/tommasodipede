@@ -1,59 +1,45 @@
-# Hi 👋, I'm Tommaso Di Pede 
+<div align="center">
+  <h1>Hi there 👋, I'm Tommaso Di Pede</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Data-Driven+Athlete;Always+learning.+Always+building." alt="Typing SVG" />
+  </a>
+  
+  <br>
+
+  <a href="https://www.linkedin.com/in/tommasodipede/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=tommidp&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
+</div>
+
+<br>
+
+## 👨‍💻 About Me
+
+- 📚 **Academic:** I am a Bachelor’s student in **Computer Engineering** at the **University of Pisa**.
+- 🏃 **Student-Athlete:** As a participant in the **UniPi Dual Career program**, I have a unique focus on engineering applied to the world of sports.
+- 📊 **Mission:** Dedicated to leveraging data analysis, automation, and data integrity to improve and optimize modern-day reality.
 
 ---
+<br>
 
-### 👨‍💻 About Me
-📚 I am a Bachelor’s student in **Computer Engineering** at the **University of Pisa**. 
+## 🛠 Skills
 
-📊 I am a **data**-driven enthusiast dedicated to leveraging data analysis to improve and optimize modern-day reality.
+**💻 Programming & Scripting**<br>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![Assembly](https://img.shields.io/badge/Assembly-1A2D40?style=for-the-badge)![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
 
-🏃 As a participant in the **UniPi Dual Career program** and a **student-athlete**, I have a unique focus on **Computer Engineering applied to the world of sports**. I aim to bridge the gap between high-performance athletics and robust engineering solutions through automation and data integrity.
+<br>
+
+**🌐 Web & Databases**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+<br>
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <i>Always learning. Always building. Always evolving.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=tommidp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Tommaso's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommidp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
 </p>
-
-
-
----
-
-### 🛠 Skills
-
-#### 💻 Programming & Scripting
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-</p>
-
-#### 🌐 Web & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-
-
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tommidp&label=Profile%20views&color=0e75b6&style=flat-square" alt="tommidp" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tommidp&show_icons=true&theme=tokyonight" height="185" alt="Tommaso's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommidp&layout=compact&theme=tokyonight" height="185" alt="Top Languages" />
-</p>
-
----
-
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/tommasodipede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-
